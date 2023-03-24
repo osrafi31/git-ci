@@ -1,3 +1,0 @@
-variables:
-  MYSQL_USER: ask
-  MYSQL_PASSWORD: 1234
